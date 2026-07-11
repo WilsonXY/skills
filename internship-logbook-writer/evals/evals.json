@@ -1,0 +1,33 @@
+{
+  "skill_name": "internship-logbook-writer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Here are my weekly notes for Week 3:\nInternship - Week 3\n25 May\n- Understanding the logic behind the decision of logging\n- where should be placing a logging, when should use warn and error\n- Received feedback from cr and made changes\n- Learnt to keep the feature branch updated by merging/pulling from master, to avoid conflict when wanting to push\n- understand there are a lot of encryption & decryption involved in the process. Must be careful and aware of this when doing tasks\n- involves in creating release plan for the fallback bug fixes\n- communicate with QA when CR is done to go next step on pushing to Sim.\n-\n\n26 May\n- understanding how to create a release plan\n- communicate with QA on the delay of CR\n- code fixes/changes based on CR review \n- learnt to use a skill to check the code changes/architecture \n- get the CR passed, now waiting for QA for deploying \n\n28 May \n- understanding the responsibility of data changes/add/delete in the dev database, to avoid dirty test data \n- receives a PRD for the project in-charged next month \n- communicate with a person from PD for a technical PRD meeting \n* OCBC projects mentioned last time gets delay due to some issue (so now working on another project) \n- learning some internal platform/tech using AI with knowledge base, while helping to update the knowledgebase base on the codebase\n- actually understands the whole development process. BRD > PRD > SA > DEVELOPMENT > TESTING > RELEASE PLAN > DEPLOYMENT \n\n29 May\n- update/learning with knowledge base on one of the internal platform using AI\n- learning how the platform service works internally\n- understand the life cycle of the transaction in the blockchain\n- how blockchain is being used to do transactions quickly, low cost, digitally \n- knowing how / when foreign exchange(fx) happens in cross-broader payment \n- purchase (on-chain) / transfer / redeem (off-chain) \n- mint / transfer / burn\n- stablecoin (pegging to actual fiat)  \n- token > fiat / fiat > token\n- state machine, how sub-order manage the state and process/work \n- atomic, all success or nothing \n- learning internal codebase structure, framework\n- need to prepare to understand the actual code, in order to understand what EXACTLY I'm going to do and need to ask in next week prd meeting.\n\nPlease turn this into my internship logbook.",
+      "expected_output": "Markdown file Internship Logbook - Week 3.md in the workspace. It contains Week 3, Start Date 25 May, End Date 29 May. Objective and content bullets are written in a simple, natural student tone without any bold headings or prefixes. The career relevance paragraph is 1-2 sentences with varied lengths and sounds human.",
+      "files": [],
+      "expectations": [
+        "The output file name ends with 'Internship Logbook - Week 3.md'.",
+        "The output includes a title '# Internship Logbook'.",
+        "The output includes dates (Start Date: 25 May or May 25, End Date: 29 May or May 29).",
+        "The bullet points do NOT contain any bold headings or prefix labels.",
+        "The tone is casual and student-like, utilizing varied sentence lengths.",
+        "The career relevance paragraph is exactly 1-2 sentences."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Here are my notes for Week 4:\nInternship - Week 4\n3 June\n- joined a PRD meeting on the auto-redeem project \n- understanding the situation and requirements from the PRD \n- Learnt and do research on the auto-redeem project I will be working on this month with the PRD \n\n4 June\n- hosted a release review meeting for the bug fixes \n- get involved, learnt and monitor how the changes is being deployed by the QA\n- Learnt and do research on the auto-redeem project I will be working on this month with the PRD \n\n5 June\n- Learnt and do research on the auto-redeem project I will be working on this month with the PRD\n- found some problem / question in the existing codebase that I will get involved into\n- team went outing, alone in the office doing the learning and research\n\nPlease format my logbook.",
+      "expected_output": "Markdown file Internship Logbook - Week 4.md in the workspace. It contains Week 4, Start Date 3 June, End Date 5 June. Objective and content bullets are written in a simple, natural student tone without any bold headings or prefixes. The career relevance paragraph is 1-2 sentences with varied lengths and sounds human.",
+      "files": [],
+      "expectations": [
+        "The output file name ends with 'Internship Logbook - Week 4.md'.",
+        "The output includes a title '# Internship Logbook'.",
+        "The output includes dates (Start Date: 3 June or June 3, End Date: 5 June or June 5).",
+        "The bullet points do NOT contain any bold headings or prefix labels.",
+        "The content includes details of joining the PRD meeting and working/staying alone in the office to research.",
+        "The career relevance paragraph is exactly 1-2 sentences."
+      ]
+    }
+  ]
+}
